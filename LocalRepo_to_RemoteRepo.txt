@@ -1,2 +1,5 @@
 ++++++++++++
 ++++++++++++
+
+Adding below details to push to RemoteRepo
+Welcome to Git
